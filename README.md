@@ -1,5 +1,5 @@
 # FirewallChallenge
-[![Build Status](https://travis-ci.com/UjjwalChallenge/FirewallChallenge.svg?branch=master)](https://travis-ci.com/UjjwalChallenge/FirewallChallenge)
+[![Build Status](https://travis-ci.com/UjjwalChallenge/Challenge.svg?branch=master)](https://travis-ci.com/UjjwalChallenge/Challenge)
 
 
 This repository contains the code for challenge given by Illumio. 
