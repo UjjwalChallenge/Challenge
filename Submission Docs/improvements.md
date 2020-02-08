@@ -12,8 +12,9 @@ using a binary trie data structure. I have explained this structure  [here](http
 * Right now, the rules data-store tries to add a new rule again even if it is already present in the data store if there
 is a range element (an ip range or a port range) present. To fix this, I was thinking of merging the rules as I read 
 them line by line through the .csv file. This problem can be reduced to the [merge intervals problem](https://www.geeksforgeeks.org/merging-intervals/)
+* Study the RulesDataStore tree and try to find out points/gaps of improvements. I wanted to check if I can improve the performance by re-ordering components in a rule.
 * Move code and fix imports in different python files to prevent the problem of circular imports.
-* Generate more test cases 
+* Generate more effective (and in amount) test cases 
 * I discovered the python's standard ipaddress library towards the very end of my implementation. I would have liked to explore it more 
 and find out if it offers any efficient ip address matching capabilities or not
 
