@@ -31,7 +31,7 @@ Output
 * [References used](https://github.com/UjjwalChallenge/Challenge/blob/master/Submission%20Docs/references.md)
 
 
-##### I would like to give very special thanks to Illumio for perceiving a potential for a strong fit between my skills and their team's hiring needs and giving me an opportunity to work on this challenge. It was amazing. I admit that I spent more than 2 hours on this problem because it had more elements (design, tests, structure, readability) than just coming up with an efficient solution to the problem, which made this challenge even more enjoyable. I had a great time working on this and I feel that I learned a lot during the process. 
+##### I would like to give very special thanks to Illumio for perceiving a potential for a strong fit between my skills and their team's hiring needs and giving me an opportunity to work on this challenge. It was amazing. I admit that I spent more than 2 hours(close to 3 to 3.5 hours - creating necessary documentation and tests) on this problem because it had more elements (design, tests, structure, readability) than just coming up with an efficient solution to the problem, which made this challenge even more enjoyable. I had a great time working on this and I feel that I learned a lot during the process. 
 
 
 Submitted By : [Ujjwal Ayyangar](https://github.com/UjjwalAyyangar)
