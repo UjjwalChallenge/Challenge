@@ -97,6 +97,8 @@ class Protocol(PacketComponent):
 
 
 class Packet(object):
+    """ A class that is used to store different types of PacketComponent objects. 
+    """
     def __init__(self, data):
         self.ip = IP(data['ip'])
         self.direction = Direction(data['direction'])
