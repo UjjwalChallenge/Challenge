@@ -1,10 +1,10 @@
-# FirewallChallenge
+# Challenge
 [![Build Status](https://travis-ci.com/UjjwalChallenge/Challenge.svg?branch=master)](https://travis-ci.com/UjjwalChallenge/Challenge)
 
 
 This repository contains the code for challenge given by Illumio. 
 
-The source code for the required Firewall class can be found [here](https://github.com/UjjwalChallenge/FirewallChallenge/blob/master/firewall/firewall.py)
+The source code for the required Firewall class can be found [here](https://github.com/UjjwalChallenge/Challenge/blob/master/firewall/firewall.py)
 
 ## Table of Contents
 
@@ -25,10 +25,10 @@ Output
 
 
 
-* [Code Explanation](https://github.com/UjjwalChallenge/FirewallChallenge/blob/master/Submission%20Docs/code_explanation.md)
-* [Things I would have liked to do if I had more time](https://github.com/UjjwalChallenge/FirewallChallenge/blob/master/Submission%20Docs/improvements.md)
-* [Teams I would like to work with](https://github.com/UjjwalChallenge/FirewallChallenge/blob/master/Submission%20Docs/teams_interested.md)
-* [References used](https://github.com/UjjwalChallenge/FirewallChallenge/blob/master/Submission%20Docs/references.md)
+* [Code Explanation](https://github.com/UjjwalChallenge/Challenge/blob/master/Submission%20Docs/code_explanation.md)
+* [Things I would have liked to do if I had more time](https://github.com/UjjwalChallenge/Challenge/blob/master/Submission%20Docs/improvements.md)
+* [Teams I would like to work with](https://github.com/UjjwalChallenge/Challenge/blob/master/Submission%20Docs/teams_interested.md)
+* [References used](https://github.com/UjjwalChallenge/Challenge/blob/master/Submission%20Docs/references.md)
 
 
 I would like to thank Illumio for perceiving a potential for a strong fit between my skills and their team's hiring needs and 

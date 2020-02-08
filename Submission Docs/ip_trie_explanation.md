@@ -13,5 +13,5 @@ and then stored in the trie.
 An example of how `5` would be stored in this trie (the preceding 0s are omitted in the figure for better understanding)
 
 <p align="center">
-<img src="https://github.com/UjjwalChallenge/FirewallChallenge/blob/master/Submission%20Docs/IP_Trie.png" width="200">
+<img src="https://github.com/UjjwalChallenge/Challenge/blob/master/Submission%20Docs/IP_Trie.png" width="200">
 </p>

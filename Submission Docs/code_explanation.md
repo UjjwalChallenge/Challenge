@@ -16,7 +16,7 @@ The RulesDataStore Tree is formed through 5 different types of nodes. The name o
 
 * IPTrieNode - A node which forms the basic building block of the binary trie that is used to store different ip addresses.
 
-The structure of IP Trie has been explained [here](https://github.com/UjjwalChallenge/FirewallChallenge/blob/master/Submission%20Docs/ip_trie_explanation.md) 
+The structure of IP Trie has been explained [here](https://github.com/UjjwalChallenge/Challenge/blob/master/Submission%20Docs/ip_trie_explanation.md) 
 
 ### Structure of RulesDataStore 
 * It is a tree that contains 4 main levels (Discluding the IP Trie levels). 
@@ -31,5 +31,5 @@ The following image shows the state of the data store when the rule `inbound,tcp
 - packet 1 : `inbound tcp, 80, 192.168.1.2` [GETS ACCEPTED]
 - packet 2 : `inbound tcp, 80, 192.168.1.1` [GETS BLOCKED]
 
-![here](https://github.com/UjjwalChallenge/FirewallChallenge/blob/master/Submission%20Docs/example_datastore.png)
+![here](https://github.com/UjjwalChallenge/Challenge/blob/master/Submission%20Docs/example_datastore.png)
 
