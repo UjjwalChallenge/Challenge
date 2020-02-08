@@ -1,4 +1,4 @@
-### Teams I would love to be a part of
+### Teams I would like to be a part of
 (in order of preference)
 1. Data Team
 2. Policy Team
